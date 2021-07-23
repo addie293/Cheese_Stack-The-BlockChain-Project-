@@ -6,7 +6,7 @@ The basic elements of the cheese stack are working fine. The main objective of t
 
 | Member Name     | Time|
 | ----------- | ----------- |
-| Aditya Das   | 50       |
+| Aditya Das   | 55       |
 | Md Nur Amin   | 50        |
 | Erblin Berisha| 45|
 
@@ -14,8 +14,8 @@ The basic elements of the cheese stack are working fine. The main objective of t
 
 | Member Name     | Task(s) Assigned|
 | ----------- | ----------- |
-| Aditya Das   | Design of Protocol and Integration, Design and coding implementation of member.py, Testing and Validating the prototype       |
-| Md Nur Amin   | Design and Coding Implementation of cheesestack.py, Creation and Implementating cheese.py, Coding proof of work and integration, Testing and Validating the Prototype       |
+| Aditya Das   | Design of Protocol and Integration, Design and coding implementation of member.py, Testing and Validating the prototype, proof of work implementation       |
+| Md Nur Amin   | Design and Coding Implementation of cheesestack.py, Creation and Implementating cheese.py, Testing and Validating the Prototype       |
 | Erblin Berisha| Coding the tracker|
 
 ## Objectives Implemented
